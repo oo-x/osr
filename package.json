@@ -1,0 +1,13 @@
+{
+	"name": "osr",
+	"type": "module",
+	"scripts": {
+		"dev": "vite"
+	},
+	"dependencies": {
+		"three": "^0.180.0"
+	},
+	"devDependencies": {
+		"vite": "^7.2.5"
+	}
+}
